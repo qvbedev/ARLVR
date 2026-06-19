@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Test GMA  
-https://23phcgma7.vizco.workers.dev/stream/channel/master.m3u8
-#EXTINF:-1,MAL: FOX SPORTS
-https://delivery.macan.live/stream/id_foxsport1/index.m3u8?
+#EXTINF:-1,Kapuso Stream GMA
+https://www.youtube.com/c/gmanetwork/live
+#EXTINF:-1,MAL: FOX Sports US only (World Cup LIVE 24/7) 
+https://www.youtube.com/c/foxsports/live
