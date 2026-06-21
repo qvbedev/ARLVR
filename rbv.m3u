@@ -1,14 +1,5 @@
-#EXTINF:-1 group-title="Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ABS-CBN_Logo.svg/1200px-ABS-CBN_Logo.svg.png" tvg-id="", ABS-CBN Live
-https://www.youtube.com/@ABSCBNEntertainment/live
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Al_Jazeera_Matthew_1.svg/1200px-Al_Jazeera_Matthew_1.svg.png" tvg-id="", Al Jazeera English
-https://www.youtube.com/@AJEnglish/live
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DW_News_Logo_2024.svg/1200px-DW_News_Logo_2024.svg.png" tvg-id="", DW News
-https://www.youtube.com/@dwtvenglish/live
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_News.svg/1200px-Sky_News.svg.png" tvg-id="", Sky News
-https://www.youtube.com/@SkyNews/live
-
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Euronews_2022_alternative_logo.svg/1200px-Euronews_2022_alternative_logo.svg.png" tvg-id="", Euronews
-https://www.youtube.com/@EuronewsEnglish/live
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/08/Logo-Caze-Tv-Png.png", caze tv
+https://api.m3use.projectmoose.xyz/m3u/fvdfv/tvni/6882ce77fd41149b275bb7bf.m3u8?uid=fvdfv&pkey=2Js3Gnhv
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/_gKdhu0S4g453Jq93uHrEWpvyYSr022NPJd7CFZj8V5PKqYRMfH56oXOmU0nQ3hdTNCvfZTDzQ=s160-c-k-c0x00ffffff-no-rj", Kapuso - GMA Network
+https://api.m3use.projectmoose.xyz/m3u/fvdfv/tvni/67f5f2cc5b2d85bf197378a4.m3u8?uid=fvdfv&pkey=2Js3Gnhv
