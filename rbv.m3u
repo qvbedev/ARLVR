@@ -1,5 +1,13 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://imagensempng.com.br/wp-content/uploads/2023/08/Logo-Caze-Tv-Png.png", caze tv
-https://api.m3use.projectmoose.xyz/m3u/fvdfv/tvni/6882ce77fd41149b275bb7bf.m3u8?uid=fvdfv&pkey=2Js3Gnhv
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/_gKdhu0S4g453Jq93uHrEWpvyYSr022NPJd7CFZj8V5PKqYRMfH56oXOmU0nQ3hdTNCvfZTDzQ=s160-c-k-c0x00ffffff-no-rj", Kapuso - GMA Network
-https://api.m3use.projectmoose.xyz/m3u/fvdfv/tvni/67f5f2cc5b2d85bf197378a4.m3u8?uid=fvdfv&pkey=2Js3Gnhv
+#EXTM3U
+#EXT-X-TARGETDURATION:7
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:243037
+#EXT-X-PROGRAM-DATE-TIME:2026-06-26T04:19:14.628Z
+#EXTINF:6.156,
+https://p16-amd-va.tiktokcdn.com/obj/tos-alisg-avt-0068/a7a74a169086d64468185c84391fa03d
+#EXTINF:6.139,
+https://p16-amd-va.tiktokcdn.com/obj/tos-alisg-avt-0068/c6789a047905cbfbec2d2513e9923345
+#EXTINF:6.139,
+https://p16-amd-va.tiktokcdn.com/obj/tos-alisg-avt-0068/26458276eb1066c083c75cce08d7c0ed
+#EXTINF:6.139,
+https://p16-amd-va.tiktokcdn.com/obj/tos-alisg-avt-0068/8ffae0f766e3d1905593d624c37351a3
